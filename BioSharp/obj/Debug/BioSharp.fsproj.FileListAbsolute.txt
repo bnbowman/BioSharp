@@ -1,0 +1,5 @@
+C:\Users\bbowman\GitHub\BioSharp\BioSharp\bin\Debug\BioSharp.dll
+C:\Users\bbowman\GitHub\BioSharp\BioSharp\bin\Debug\BioSharp.pdb
+C:\Users\bbowman\GitHub\BioSharp\BioSharp\obj\Debug\BioSharp.dll
+C:\Users\bbowman\GitHub\BioSharp\BioSharp\obj\Debug\BioSharp.pdb
+C:\Users\bbowman\GitHub\BioSharp\BioSharp\obj\Debug\BioSharp.fsprojResolveAssemblyReference.cache

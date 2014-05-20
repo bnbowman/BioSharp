@@ -1,0 +1,7 @@
+C:\Users\bbowman\GitHub\BioSharp\BioSharpTests\bin\Debug\BioSharpTests.exe
+C:\Users\bbowman\GitHub\BioSharp\BioSharpTests\bin\Debug\BioSharpTests.pdb
+C:\Users\bbowman\GitHub\BioSharp\BioSharpTests\bin\Debug\BioSharp.dll
+C:\Users\bbowman\GitHub\BioSharp\BioSharpTests\bin\Debug\BioSharp.pdb
+C:\Users\bbowman\GitHub\BioSharp\BioSharpTests\obj\Debug\BioSharpTests.fsprojResolveAssemblyReference.cache
+C:\Users\bbowman\GitHub\BioSharp\BioSharpTests\obj\Debug\BioSharpTests.exe
+C:\Users\bbowman\GitHub\BioSharp\BioSharpTests\obj\Debug\BioSharpTests.pdb
